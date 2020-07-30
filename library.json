@@ -1,13 +1,11 @@
 {
   "name": "InteliPyro",
   "keywords": "pyro, TVC, rocket, nichrome, MOSFET",
-  "description": "ESP8266 offers a complete and self-contained Wi-Fi networking solution, allowing it to either host the application or to offload all Wi-Fi networking functions from another application processor",
+  "description": "Power up nichrome faster without the worry of causing a brown-out.",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/itead/ITEADLIB_Arduino_WeeESP8266.git"
+    "url": "https://github.com/RywesTech/InteliPyro"
   },
-  "exclude": "doc",
-  "frameworks": "arduino",
-  "platforms": "atmelavr"
+  "frameworks": "arduino"
 }
