@@ -12,6 +12,12 @@ A tuned pyro channel is necessary for heating up your nichrome fast. Begin by in
 
 Here is an important graphic to use when tuning your channels:
 
-![Image not loading](images/legend.jpg)
+![Image not loading](images/legend.png)
 
 ## How to tune for brown-out prevention
+
+Choose a upperVoltage to be about 3.2 volts per cell (this is where the decrease in Pyro power starts) and a lowerVoltage of about 2.8 volts per cell (this is where your pyro channel will be completely off). Test in different scenarios to make sure your particular flight computer can still receive enough power.
+
+## More info
+
+Hit me up on Twitter! [@rswestcott](https://twitter.com/rswestcott)
