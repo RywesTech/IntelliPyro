@@ -1,4 +1,4 @@
-# InteliPyro Library
+# IntelliPyro Library
 
 ### This library is still in development, use at your own risk!
 
