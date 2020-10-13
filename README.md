@@ -1,6 +1,6 @@
-# IntelliPyro Library
+# IntelliPyro Arduino Library
 
-### This library is still in development, use at your own risk!
+### This library controls high-current devices, use at your own risk!
 
 This library has 3 objectives:
 1. (✅ working) Heat up nichrome faster than just simply applying a constant current/voltage
